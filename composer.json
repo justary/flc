@@ -1,0 +1,19 @@
+{
+    "name": "justary/flc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mr.justary",
+            "email": "justary@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Justary\\Flc\\": "src/",
+            "Justary\\Flc\\Test\\": "tests"
+        }
+    }
+}
